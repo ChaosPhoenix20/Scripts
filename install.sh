@@ -9,7 +9,7 @@ clear
 cd ~/ 
 
 sudo eopkg upgrade -y 
-sudo eopkg it steam discord vlc gufw lutris htop vim wine winetricks -y 
+sudo eopkg it steam discord vlc gufw lutris htop vim wine winetricks keepassx gamemode -y 
 
 tput setaf 2; echo "install complete, good luck commander. o7" 
 sleep 5 
